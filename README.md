@@ -56,9 +56,6 @@ The Arduino Mega on the receiving end interprets the X and Y axis data and uses 
 
 ## Future Plans
 
-Here are some plans for future enhancements to the project:
-## Future Plans
-
 Here are the future plans for enhancing the project:
 
 1. Design a custom PCB board for the joystick controller to improve handheld control and portability.
