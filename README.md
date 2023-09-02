@@ -12,6 +12,7 @@
   - [Transmitting End](#transmitting-end)
   - [Receiving End](#receiving-end)
 - [Future Plans](#future-plans)
+- [License](#license)
 
 ## Features
 
