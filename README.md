@@ -2,7 +2,7 @@
 # Arduino Radio-Controlled Car
 
 ![Arduino Radio-Controlled Car](arduino-joystick-controlled-car-image.jpg)
-
+ 
 **Disclaimer:**  This personal project is an enhanced iteration of the original "Obstacle Avoiding Car" project, originally created with an Arduino Uno and motors. The goal of this revamped version is to transform it into a remote-controlled car using Arduinos and RF modules. The project aims to achieve wireless control of the car, with the potential to adapt it for use in various hobby RC cars.
 
 ## Table of Contents
