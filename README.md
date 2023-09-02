@@ -18,7 +18,7 @@
 Explore the exciting features of this Arduino-based radio-controlled car project:
 
 - Wireless remote control using RF technology.
-- Precise control with a PS2 joystick for intuitive navigation.
+- Precise control with a dual-axis joystick module for intuitive navigation.
 - Real-time transmission of X and Y axis data.
 - Integration of NRF24L01 transceiver modules for reliable communication.
 - Modular design with the potential to adapt the system for various hobby RC cars.
@@ -36,7 +36,7 @@ Here is the list of components used in the project:
 5. Two NRF24L01 Transceiver Modules
 6. Arduino Mega 2560
 7. Arduino Nano
-8. PS2 Joystick/Joystick Module
+8. Dual-axis Joystick Module
 9. One Servo Motor
 10. Soldering Equipment (Necessary for 1 pin in the current build)
 
