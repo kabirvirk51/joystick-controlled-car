@@ -1,4 +1,4 @@
-# joystick-controlled-car
+
 # Arduino Radio-Controlled Car
 
 ![Arduino Radio-Controlled Car](arduino-joystick-controlled-car-image.jpg)
